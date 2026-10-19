@@ -1,0 +1,125 @@
+{
+ "date": "2026-10-19",
+ "items": [
+  {
+   "category": "AI Model",
+   "title": "“클로드·GPT 넘본다”…딥시크, 초저가 AI ‘V4.1 플래시’ 1017 공개",
+   "outlet": "이데일리",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=02292726645614232"
+  },
+  {
+   "category": "AI Model",
+   "title": "MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…‘독자 역량’ 부각",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216337"
+  },
+  {
+   "category": "AI Model",
+   "title": "Reflection AI open-sources Beam’s weights, post-training recipes",
+   "outlet": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/"
+  },
+  {
+   "category": "AI Model",
+   "title": "국산 NPU·AI 모델·클라우드 5개사 뭉쳐 ‘소버린 AI’ 만든다",
+   "outlet": "IT조선",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172252"
+  },
+  {
+   "category": "AI Agent",
+   "title": "엔비디아, RTX 스파크 노트북 공식 출시…'개인용 에이전틱 AI 시대' 연다",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20261016000313"
+  },
+  {
+   "category": "AI Agent",
+   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+  },
+  {
+   "category": "AI Agent",
+   "title": "센드버드·업스테이지, 국산 AI 에이전트 상용화 맞손",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20103112"
+  },
+  {
+   "category": "AI Agent",
+   "title": "트웰브랩스, 영상 AI 에이전트 출시…편집·분석 자동화",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20261016000287"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "앤트로픽, 캐나다 첫 데이터센터 계약…일본서도 건설 협상 막바지",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216378"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "[단독]‘코어위브’식 AI 부채 우려… 네이버도 12조 외부 투자 의존",
+   "outlet": "동아일보",
+   "url": "https://www.donga.com/news/article/all/20261019/134863396/1"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "마이크로소프트(MSTF.O), 엔스케일 英 데이터센터 계약 철회…IPO '빨간불'",
+   "outlet": "알파경제",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=619384"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "“美 데이터센터 올 들어 최소 47곳 지연·중단·철회⋯AI 인프라 건설 붐 균열”",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2637043"
+  },
+  {
+   "category": "Physical AI",
+   "title": "美 런웨이 AI, 인터넷 영상으로 로봇 학습하는 월드액션모델 ‘프랙시스-1’ 공개",
+   "outlet": "로봇신문",
+   "url": "https://www.irobotnews.com/news/articleView.html?idxno=48998"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "예금보험공사, 네이버클라우드와 생성형 AI 기반 대국민 서비스 혁신 추진",
+   "outlet": "마일드경제",
+   "url": "https://www.biztribune.co.kr/news/articleView.html?idxno=360829"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
+   "outlet": "The Decoder",
+   "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "앤트로픽, 미 의회에 자체 AI 안전 법안 제안…\"정부 개입 제한·일부 주법 대체\"",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216352"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "앤트로픽 클로드, 25년 된 암호 표준 미스터리 풀어…“30분도 안 걸렸다”",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216380"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "앤스로픽, 블랙스톤 대출에 두 자릿수 이자 지급...수익률 정크본드 웃돌아",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202610180344557631"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Proofpoint agrees to buy data security company Varonis for $6.3B in cash",
+   "outlet": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/15/proofpoint-agrees-to-buy-data-security-company-varonis-for-6-3b-in-cash/"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "“AI 일자리 충격 대응”… 앤트로픽, 지분 5% 공익기금에 출연",
+   "outlet": "조선비즈",
+   "url": "https://biz.chosun.com/it-science/ict/2026/10/19/CURTUJ6I3VFR3FR57Z27375CWM/"
+  }
+ ]
+}

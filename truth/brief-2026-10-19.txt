@@ -1,0 +1,21 @@
+# 2026-10-19 실제 Daily Tech Brief 수록 기사 (텔레그램 최종본 자동 보관)
+“클로드·GPT 넘본다”…딥시크, 초저가 AI ‘V4.1 플래시’ 1017 공개
+MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…‘독자 역량’ 부각
+Reflection AI open-sources Beam’s weights, post-training recipes
+국산 NPU·AI 모델·클라우드 5개사 뭉쳐 ‘소버린 AI’ 만든다
+엔비디아, RTX 스파크 노트북 공식 출시…'개인용 에이전틱 AI 시대' 연다
+Replit makes OpenAI its default over Anthropic, CEO says
+센드버드·업스테이지, 국산 AI 에이전트 상용화 맞손
+트웰브랩스, 영상 AI 에이전트 출시…편집·분석 자동화
+앤트로픽, 캐나다 첫 데이터센터 계약…일본서도 건설 협상 막바지
+[단독]‘코어위브’식 AI 부채 우려… 네이버도 12조 외부 투자 의존
+마이크로소프트(MSTF.O), 엔스케일 英 데이터센터 계약 철회…IPO '빨간불'
+“美 데이터센터 올 들어 최소 47곳 지연·중단·철회⋯AI 인프라 건설 붐 균열”
+美 런웨이 AI, 인터넷 영상으로 로봇 학습하는 월드액션모델 ‘프랙시스-1’ 공개
+예금보험공사, 네이버클라우드와 생성형 AI 기반 대국민 서비스 혁신 추진
+An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet
+앤트로픽, 미 의회에 자체 AI 안전 법안 제안…"정부 개입 제한·일부 주법 대체"
+앤트로픽 클로드, 25년 된 암호 표준 미스터리 풀어…“30분도 안 걸렸다”
+앤스로픽, 블랙스톤 대출에 두 자릿수 이자 지급...수익률 정크본드 웃돌아
+Proofpoint agrees to buy data security company Varonis for $6.3B in cash
+“AI 일자리 충격 대응”… 앤트로픽, 지분 5% 공익기금에 출연
