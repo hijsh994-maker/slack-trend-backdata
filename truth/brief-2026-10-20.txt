@@ -1,0 +1,14 @@
+# 2026-10-20 실제 Daily Tech Brief 수록 기사 (텔레그램 최종본 자동 보관)
+[단독] 입법조사처 "'모두의 AI' 오류 피해, 이용자 배상책임 입증 어려워"
+[AI 고속도로] 앤트로픽, AI 인프라 확충에 60조원 베팅…엔스케일과 협력 확대
+브룩필드, 옛 우라늄 농축 부지에 1000억달러 AI 캠퍼스 추진
+[단독] LG, 20조원 美 GPU 거래 중개시장 진출
+엔비디아 손잡은 LG…환경부 규제에 평촌AIDC 발목
+"엔비디아의 진짜 해자 CUDA에 도전"…아마존,AI칩 소프트웨어 공개
+KT, AI 스타트업과 AX 협력 성과 공개…K-PATH 2026' 개최
+미국, 연방 민간기관 IT 시스템서 중국 AI 딥시크 전면 제거 명령
+MS, AI 에이전트 내부자 위협 대응 강화…실시간 감시·권한 통제
+AI 보안 위협까지 진단한다…네이버클라우드, 기업용 무료 보안 자가진단 서비스 개설
+Tenstorrent hits $6.2B valuation to scale open-weight AI chips
+JB금융, 업스테이지에 400억 투자…금융 특화 AI 에이전트 공동 개발
+Nvidia, Dell back $200M round for AI model developer doubleAI
