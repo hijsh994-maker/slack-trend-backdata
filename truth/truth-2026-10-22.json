@@ -1,0 +1,107 @@
+{
+ "date": "2026-10-22",
+ "items": [
+  {
+   "category": "AI Agent",
+   "title": "앤트로픽, 알아서 일하는 AI 비서 '클로드 듀엣' 전격 공개",
+   "outlet": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709007"
+  },
+  {
+   "category": "AI Agent",
+   "title": "\"내 카톡·네이버 기록도 기억해줄까?\"…똑똑해진 애플 '시리 AI'",
+   "outlet": "이데일리",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=03555526645615216&mediaCodeNo=257"
+  },
+  {
+   "category": "AI Agent",
+   "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "KT클라우드, 50MW 규모 '안산 AIDC' 착공…2029년 준공",
+   "outlet": "뉴시스",
+   "url": "https://www.newsis.com/view/NISX20261022_0003836163"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "엔비디아, 모듈러 컨테이너 ‘DSX POD’ 공개…“AI 인프라 구축 시간 단축”",
+   "outlet": "아이티데일리",
+   "url": "https://www.itdaily.kr/news/articleView.html?idxno=242342"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "LNG 직거래 막더니 전력 문턱 높이나… AI 데이터센터 '그리드코드' 복병",
+   "outlet": "뉴시스",
+   "url": "https://www.newsis.com/view/NISX20261021_0003834889"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "트럼프 \"데이터센터 자체 전력 생산해야\"…배당금 카드도 언급",
+   "outlet": "아시아경제",
+   "url": "https://www.asiae.co.kr/news/view.htm?idxno=2026102123271407524"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "Google unveils TorchTPU in a push to break Nvidia's stranglehold on AI compute",
+   "outlet": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/20/google-unveils-torchtpu-in-a-push-to-break-nvidias-stranglehold-on-ai-compute/"
+  },
+  {
+   "category": "Physical AI",
+   "title": "HD현대로보틱스, 휴머노이드 시장 진출 시동…지능형 양팔로봇 공개",
+   "outlet": "이투데이",
+   "url": "https://www.etoday.co.kr/news/view/2638398"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216500"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "전 세계 웹사이트 ‘해킹 비상’… AI가 치명적 PHP 보안 결함 발견",
+   "outlet": "조선비즈",
+   "url": "https://biz.chosun.com/it-science/ict/2026/10/22/SXIDDQBIWZDNTG6ZH7CVSGJYB4/"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "AI 에이전트가 안전 장치 스스로 무력화…오픈AI, 내부 사고 보고서 공개",
+   "outlet": "디지털데일리",
+   "url": "https://m.ddaily.co.kr/page/view/2026102205584070168"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "[단독] 네이버, '뮤즈 대항마' AI 비서에 베팅",
+   "outlet": "한국경제",
+   "url": "https://www.hankyung.com/article/2026102167081"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "광고로 번 돈도 모자랐다…메타, AI 투자 위해 무의결권 주식 꺼내",
+   "outlet": "한국경제",
+   "url": "https://www.hankyung.com/article/202610227257i"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "스페이스X 올라 탄 테슬라… 3.5조弗 ‘AI 제국’ 건설 시동 [AI경쟁 격화]",
+   "outlet": "세계일보",
+   "url": "https://www.segye.com/newsView/20261021520048"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation",
+   "outlet": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/"
+  }
+ ]
+}

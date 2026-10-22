@@ -1,0 +1,18 @@
+# 2026-10-22 실제 Daily Tech Brief 수록 기사 (텔레그램 최종본 자동 보관)
+앤트로픽, 알아서 일하는 AI 비서 '클로드 듀엣' 전격 공개
+"내 카톡·네이버 기록도 기억해줄까?"…똑똑해진 애플 '시리 AI'
+While Amazon blocks AI agents, Walmart rolls out the welcome mat
+KT클라우드, 50MW 규모 '안산 AIDC' 착공…2029년 준공
+엔비디아, 모듈러 컨테이너 ‘DSX POD’ 공개…“AI 인프라 구축 시간 단축”
+LNG 직거래 막더니 전력 문턱 높이나… AI 데이터센터 '그리드코드' 복병
+트럼프 "데이터센터 자체 전력 생산해야"…배당금 카드도 언급
+Google unveils TorchTPU in a push to break Nvidia's stranglehold on AI compute
+HD현대로보틱스, 휴머노이드 시장 진출 시동…지능형 양팔로봇 공개
+오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출
+전 세계 웹사이트 ‘해킹 비상’… AI가 치명적 PHP 보안 결함 발견
+AI 에이전트가 안전 장치 스스로 무력화…오픈AI, 내부 사고 보고서 공개
+[단독] 네이버, '뮤즈 대항마' AI 비서에 베팅
+광고로 번 돈도 모자랐다…메타, AI 투자 위해 무의결권 주식 꺼내
+스페이스X 올라 탄 테슬라… 3.5조弗 ‘AI 제국’ 건설 시동 [AI경쟁 격화]
+Legal AI startup Legora raises $550M Series E at $8.8B valuation
+Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation
