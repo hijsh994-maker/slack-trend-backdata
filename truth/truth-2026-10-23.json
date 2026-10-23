@@ -1,0 +1,95 @@
+{
+ "date": "2026-10-23",
+ "items": [
+  {
+   "category": "AI Model",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+  },
+  {
+   "category": "AI Model",
+   "title": "Canva Debuts Craft Image Model Built by Its In-House Research Lab",
+   "outlet": "Unite.AI",
+   "url": "https://www.unite.ai/canva-debuts-craft-image-model-built-by-its-in-house-research-lab/"
+  },
+  {
+   "category": "AI Agent",
+   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "outlet": "TechCrunch",
+   "url": "https://tech.yahoo.com/cybersecurity/articles/1password-launches-way-ai-agents-190709978.html"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "Google funds a 1GW virtual power plant with Voltus on the PJM grid",
+   "outlet": "The Next Web",
+   "url": "https://thenextweb.com/news/google-voltus-1gw-virtual-power-plant-pjm"
+  },
+  {
+   "category": "Physical AI",
+   "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/"
+  },
+  {
+   "category": "Physical AI",
+   "title": "'보디가드 로봇'에 괴한 뒷걸음질…출시 언제? 예상가격 보니 [IT썰]",
+   "outlet": "머니투데이",
+   "url": "https://www.mt.co.kr/index.php/tech/2026/10/22/2026102209274894712"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "Expanding Claude availability and deployment choice on Google Cloud",
+   "outlet": "Google Cloud Blog",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "SpaceXSI Opens a Partner Network to Push Grok Into Big Business",
+   "outlet": "Tesla North",
+   "url": "https://teslanorth.com/2026/10/22/spacexsi-partner-network-grok/"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "Uber gives more than 30,000 staff OpenAI’s ChatGPT Work agent",
+   "outlet": "The Next Web",
+   "url": "https://thenextweb.com/news/uber-chatgpt-work-30000-employees"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review",
+   "outlet": "KSL.com",
+   "url": "https://www.ksl.com/article/51639721/external-evaluators-find-flaws-in-openais-ai-monitoring-system-in-pilot-review"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "US banks detect unauthorized AI agents in customer accounts, Axios reports",
+   "outlet": "The Star",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/22/us-banks-detect-unauthorized-ai-agents-in-customer-accounts-axios-reports"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "중국 딥시크 몸값 750억달러…오픈AI·앤트로픽과 경쟁 본격화",
+   "outlet": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026102305201049576"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "소프트뱅크(9984 JP), 세계 최대급 하이일드채 발행…1.7조엔 조달해 AI 투자 뒷받침",
+   "outlet": "Investing.com 한국어",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620429"
+  },
+  {
+   "category": "국책과제",
+   "title": "2026년도 제3차 기계장비산업기술개발사업 신규지원 대상과제 공고",
+   "outlet": "IRIS",
+   "url": "https://www.iris.go.kr/contents/retrieveBsnsAncmView.do?ancmId=024578"
+  }
+ ]
+}
