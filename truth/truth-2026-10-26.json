@@ -1,0 +1,95 @@
+{
+ "date": "2026-10-26",
+ "items": [
+  {
+   "category": "AI Model",
+   "title": "[AI스토리] 中 ‘키미 K3.1’, GPT-6 아스트라급 성능으로 美 최상위 AI 턱밑 추격…오픈웨이트 공개에 보안 우려도",
+   "outlet": "이코노미트리뷴",
+   "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3904231"
+  },
+  {
+   "category": "AI Model",
+   "title": "카카오, 온디바이스용 '카나나-o' 모델 확보…멀티모달 AI 기술 순차 공개",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20261023000188"
+  },
+  {
+   "category": "AI Model",
+   "title": "텍스트 없이 오직 인간 목소리로만 학습…트위터 창업자 잭 도시, 음성 AI '데사' 공개",
+   "outlet": "AI포스트",
+   "url": "https://www.aipostkorea.com/news/articleView.html?idxno=13072"
+  },
+  {
+   "category": "AI Agent",
+   "title": "학습은 AWS, 서비스는 정부 GPU…카카오, '모두의 AI' 인프라 이원화",
+   "outlet": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026102313492606699"
+  },
+  {
+   "category": "AI Agent",
+   "title": "“20만원 운동화 17만원 되면 구매해” 네이버페이가 준비하는 ‘AI에이전트’ 서비스 봤더니 [크립토360]",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10913544"
+  },
+  {
+   "category": "AI Agent",
+   "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216608"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "정부, AI 데이터센터 인허가 간소화…장비·기술 국산화에 2천억 투입",
+   "outlet": "한겨레",
+   "url": "https://www.hani.co.kr/arti/economy/it/1283832.html"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "엘리스, 모듈형 데이터센터에 3300억 투자… “해외서도 문의 온다”",
+   "outlet": "서울경제",
+   "url": "https://www.sedaily.com/article/20105553"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "세수 12억 달러도 안 먹혔다…아마존, 데이터센터 4곳 건설 백지화",
+   "outlet": "조세일보",
+   "url": "http://www.joseilbo.com/news/news_read.php?uid=578077&class=17&grp="
+  },
+  {
+   "category": "Physical AI",
+   "title": "테슬라, 프리몬트 공장에서 휴머노이드 ‘옵티머스’ 생산 개시",
+   "outlet": "로봇신문",
+   "url": "https://www.irobotnews.com/news/articleView.html?idxno=49156"
+  },
+  {
+   "category": "Physical AI",
+   "title": "HD현대사이트솔루션, 무인 굴착기 디지털 트윈 플랫폼 개발…국책과제 최종 사업자 선정",
+   "outlet": "이코노뉴스",
+   "url": "http://www.econonews.co.kr/news/articleView.html?idxno=446200"
+  },
+  {
+   "category": "Physical AI",
+   "title": "美 메이븐 로보틱스, 시범사업 2년여 만에 1350억원 투자 유치",
+   "outlet": "로봇신문",
+   "url": "https://www.irobotnews.com/news/articleView.html?idxno=49199"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "[유럽AI 진출] 기업 고객 잡는다… 앤트로픽, 유럽 AI 컨설팅 시장 본격 진출",
+   "outlet": "CBC뉴스",
+   "url": "https://cbci.co.kr/news/articleView.html?idxno=618932"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "오픈AI, AI 모델 통제망 탈출 사고에 훈련 중단...보안 강화 후 재개",
+   "outlet": "M이코노미뉴스",
+   "url": "https://www.m-economynews.com/news/article.html?no=72070"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "메타(META.O), AI 데이터 분석 플랫폼 선다이얼 인수…사내 AI 역량 강화 나서",
+   "outlet": "메디컬투데이",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620786"
+  }
+ ]
+}
