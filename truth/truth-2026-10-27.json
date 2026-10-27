@@ -1,0 +1,77 @@
+{
+ "date": "2026-10-27",
+ "items": [
+  {
+   "category": "AI Model",
+   "title": "“AI가 청구서 읽고 회계 입력까지”…오픈AI, 가격 절반 낮춘 ‘GPT-6.1 테라’ 공개",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10915727"
+  },
+  {
+   "category": "AI Model",
+   "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+   "outlet": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+  },
+  {
+   "category": "AI Agent",
+   "title": "애플, '시리 AI' 한국어 출시…맥·워치 등 전방위 27.2 업데이트 단행",
+   "outlet": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026102708471565744"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "기후장관 “AI 데이터센터 확정 수요, 생각보다 적다”…전력수요 전망 낮출 듯",
+   "outlet": "한겨레",
+   "url": "https://www.hani.co.kr/arti/society/environment/1284175.html"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "Anthropic plans to spend up to $567 billion on compute. Its S-1 reveals plans to set up its own data centers",
+   "outlet": "Fortune",
+   "url": "https://fortune.com/2026/10/26/anthropics-s1-ipo-reveals-the-inner-workings-of-its-fast-evolving-compute-strategy/"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "Verizon lifts annual forecasts, signs more than $2 billion AI infrastructure deal with AWS",
+   "outlet": "Reuters",
+   "url": "https://www.channelnewsasia.com/business/verizon-lifts-annual-forecasts-signs-more-2-billion-ai-infrastructure-deal-aws-6492906"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "머스크, AI 반도체 사려 53조원 조달…“돈줄 막힌 AI 클라우드 업체 대거 도산할 것”",
+   "outlet": "조선일보",
+   "url": "https://www.chosun.com/economy/tech_it/2026/10/26/RTKEBCAFAREXBBQIMQ3ET4MVC4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news"
+  },
+  {
+   "category": "Physical AI",
+   "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
+   "outlet": "The Robot Report",
+   "url": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "앤트로픽 클로드, 美정부 유료데이터 무단 접근[글로벌AI브리핑]",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202610270803183301"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "\"IT전문가도 아닌데 어떻게?\"… AI 이용해 개인정보 820만건 탈취한 30대, 경찰에 검거",
+   "outlet": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026102615361845549"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "\"바이러스 합성 막아라\"… 英 정부·구글·오픈AI '1,800억 바이오 안보 랩' 출범",
+   "outlet": "코인리더스",
+   "url": "https://coinreaders.com/265243"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "앤트로픽, 상장 신청서 공개…11월 공모 절차 추진",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216687"
+  }
+ ]
+}
