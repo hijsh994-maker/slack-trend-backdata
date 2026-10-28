@@ -1,0 +1,125 @@
+{
+ "date": "2026-10-28",
+ "items": [
+  {
+   "category": "AI Model",
+   "title": "[AI는 지금] 구글, 로봇 훈련할 가상세계 만든다…월드모델 '지니4' 공개",
+   "outlet": "지디넷코리아",
+   "url": "https://zdnet.co.kr/view/?no=20261028081116"
+  },
+  {
+   "category": "AI Model",
+   "title": "MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis and #3 on Arena",
+   "outlet": "Microsoft AI 공식",
+   "url": "https://microsoft.ai/news/mai-image-2-7-debut/"
+  },
+  {
+   "category": "AI Model",
+   "title": "셀렉트스타, 모델 자동 선택하는 디시전 AI '다비' 공개",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20261027000013"
+  },
+  {
+   "category": "AI Agent",
+   "title": "카톡으로 쉽게 이용… 업무도 처리하는 '실행형 AI' 띄운다 ['모두의 AI' 기대와 현실]",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202610271816500959"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "네이버, 100억弗 AI 팩토리 사업 본궤도…브룩필드 100% 출자 '에셋코' 종속회사 편입(종합)",
+   "outlet": "뉴시스",
+   "url": "https://www.newsis.com/view/NISX20261027_0003843221"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "브로드컴, 앤트로픽의 칩 구매용 630억달러 대출에 보증",
+   "outlet": "디지털타임스",
+   "url": "https://www.dt.co.kr/article/12091462?ref=naver"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "[오라클AI월드] 오라클, OCI서 구글 TPU도 제공한다…2027년부터 기가와트 규모 확대",
+   "outlet": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026102805005352582"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "소프트뱅크, 말레이시아 AI·데이터센터에 66조 투자 추진",
+   "outlet": "이데일리",
+   "url": "https://coinlab.edaily.co.kr/News/Read?newsId=03667046645617184"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "LGU+·한국이콜랩, AI 데이터센터 액체냉각 운영표준 개발 맞손",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10916967"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "뮤즈 왜 한국에선 못 쓰나…저커버그 “데이터센터 부족해서”[김창영의 실리콘밸리 룩]",
+   "outlet": "서울경제",
+   "url": "https://m.sedaily.com/article/20106383"
+  },
+  {
+   "category": "Physical AI",
+   "title": "\"명령만 따르던 로봇은 끝났다\"... 구글, 로봇 AI 두뇌 '제미나이 로보틱스 ER 2' 기업용 프리뷰 공개",
+   "outlet": "인공지능신문",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42457"
+  },
+  {
+   "category": "Physical AI",
+   "title": "日도요타, 휴머노이드 로봇 경쟁 참전...현대차·테슬라·中에 도전장",
+   "outlet": "뉴스1",
+   "url": "https://www.news1.kr/world/northeast-asia/6331688"
+  },
+  {
+   "category": "Physical AI",
+   "title": "[단독] 사람처럼 ‘열 손가락’ 삼성 로봇…휴머노이드 ‘손 기술’ 경쟁",
+   "outlet": "한겨레",
+   "url": "https://www.hani.co.kr/arti/economy/marketing/1284276.html"
+  },
+  {
+   "category": "Physical AI",
+   "title": "LG 로봇, 연구실 벗어나 美·韓 공장 투입…'원LG' 상용화 시험대",
+   "outlet": "뉴스핌",
+   "url": "https://www.newspim.com/news/view/20261026000505"
+  },
+  {
+   "category": "Physical AI",
+   "title": "엔비디아, 로봇 학습 데이터 가공하는 AI 모델 ‘플로라’ 공개",
+   "outlet": "로봇신문",
+   "url": "https://www.irobotnews.com/news/articleView.html?idxno=49177"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "KT, AI 선택·관리 플랫폼 ‘토큰팩토리’ 출시",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10916119?ref=naver"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "\"알리바바 큐원, 테스트중 中서버로 파일 전송 시도\"",
+   "outlet": "연합뉴스",
+   "url": "https://www.yna.co.kr/view/AKR20261027077900009"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "엔비디아·AMD, 메타에 40억달러 투자",
+   "outlet": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202610280325138481"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "MS, 직원 6만명에 희망퇴직 제안…AI 투자 부담에 인력 감축",
+   "outlet": "머니투데이",
+   "url": "https://www.mt.co.kr/world/2026/10/27/2026102706100664714"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Physical Intelligence is seeking a valuation of about $20 billion",
+   "outlet": "Quartz",
+   "url": "https://qz.com/physical-intelligence-funding-talks-20-billion-valuation-102726"
+  }
+ ]
+}
