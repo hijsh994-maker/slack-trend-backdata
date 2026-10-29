@@ -1,0 +1,113 @@
+{
+ "date": "2026-10-29",
+ "items": [
+  {
+   "category": "AI Model",
+   "title": "구글, 2주 만에 또 새 모델 '제미나이 4 카본'… 해킹 구멍 찾고 뚫고 막는 능력 1위",
+   "outlet": "솔루션뉴스",
+   "url": "https://www.solnews.co.kr/news/articleView.html?idxno=85089"
+  },
+  {
+   "category": "AI Model",
+   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
+  },
+  {
+   "category": "AI Model",
+   "title": "카카오, 개인화 AI 에이전트 기반 기술 ‘Kanana-2-embedding’ 모델 2종 오픈소스 공개",
+   "outlet": "카카오",
+   "url": "https://www.kakaocorp.com/page/detail/12181"
+  },
+  {
+   "category": "AI Agent",
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+  },
+  {
+   "category": "AI Agent",
+   "title": "AI가 최적의 AI 모델 선택해 코딩…깃허브, '코파일럿 퓨전' 공개",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20261029000006"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "웹케시, 금융 AI 에이전트에 K-엑사원 연결… '독자 AI 파운데이션 모델' 프로젝트 참여",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20261028000265"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "오라클, 오픈AI(OpenAI)와의 대규모 신규 협력 발표",
+   "outlet": "케이벤치",
+   "url": "https://m.bodnara.co.kr/article/view.html?num=215016"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "앤트로픽, 신약 개발에 직접 뛰어들었다…클로드, 항체 3만5000개 설계·암 치료 기술까지 개선",
+   "outlet": "인공지능신문",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42469"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "정부, 포항에 6천억원 AI 데이터센터…2028년 가동",
+   "outlet": "매일일보",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2011338"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "오픈AI, 구글 TPU 구매 추진…엔비디아 의존도 낮추나",
+   "outlet": "한국경제",
+   "url": "https://www.hankyung.com/article/202610280398i"
+  },
+  {
+   "category": "Physical AI",
+   "title": "[컨콜] LG전자 “2030년 홈 휴머노이드 시장 공략… 제조·물류 로봇부터 확대”",
+   "outlet": "조선비즈",
+   "url": "https://biz.chosun.com/it-science/ict/2026/10/28/5ZOLM2UJBZGO5OETO5VYYI7ZFY/"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "퓨리오사AI, 8200억 시리즈D 투자유치…기업가치 3.8조",
+   "outlet": "지디넷코리아",
+   "url": "https://zdnet.co.kr/view/?no=20261029090026"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "구글 클라우드 매출 103% 급증…알파벳, AI 성장에도 투자 부담 커져",
+   "outlet": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026102906581869700"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "무디스 “3년내 만기도래 AI빚 급증…부채 만기 폭탄 주의”",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10917747"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Cognizant Eyes Stake in Sarvam AI as Sovereign AI Startup Seeks $300 Million at $3.5–4 Billion Valuation",
+   "outlet": "Business Upturn",
+   "url": "https://businessupturn.com/technology/cognizant-eyes-stake-in-sarvam-ai-as-sovereign-ai-startup-seeks-300-million-at-3-5-4-billion-valuation/"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Inference cloud startup General Compute reels in $100M, despite broader AI funding fears",
+   "outlet": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/28/inference-cloud-startup-general-compute-reels-in-100m-despite-broader-ai-funding-fears/"
+  }
+ ]
+}

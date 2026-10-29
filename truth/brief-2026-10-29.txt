@@ -1,0 +1,19 @@
+# 2026-10-29 실제 Daily Tech Brief 수록 기사 (텔레그램 최종본 자동 보관)
+구글, 2주 만에 또 새 모델 '제미나이 4 카본'… 해킹 구멍 찾고 뚫고 막는 능력 1위
+Voice AI in vogue: Nvidia releases new open transcription model
+카카오, 개인화 AI 에이전트 기반 기술 ‘Kanana-2-embedding’ 모델 2종 오픈소스 공개
+As AI agents reshape the web, Google opens Gemini and Search to more apps
+AI가 최적의 AI 모델 선택해 코딩…깃허브, '코파일럿 퓨전' 공개
+웹케시, 금융 AI 에이전트에 K-엑사원 연결… '독자 AI 파운데이션 모델' 프로젝트 참여
+오라클, 오픈AI(OpenAI)와의 대규모 신규 협력 발표
+Anthropic just launched tools to show companies what their AI spending is buying
+앤트로픽, 신약 개발에 직접 뛰어들었다…클로드, 항체 3만5000개 설계·암 치료 기술까지 개선
+정부, 포항에 6천억원 AI 데이터센터…2028년 가동
+오픈AI, 구글 TPU 구매 추진…엔비디아 의존도 낮추나
+[컨콜] LG전자 “2030년 홈 휴머노이드 시장 공략… 제조·물류 로봇부터 확대”
+퓨리오사AI, 8200억 시리즈D 투자유치…기업가치 3.8조
+구글 클라우드 매출 103% 급증…알파벳, AI 성장에도 투자 부담 커져
+무디스 “3년내 만기도래 AI빚 급증…부채 만기 폭탄 주의”
+Upwind raises $400M after walking away from Datadog acquisition offer
+Cognizant Eyes Stake in Sarvam AI as Sovereign AI Startup Seeks $300 Million at $3.5–4 Billion Valuation
+Inference cloud startup General Compute reels in $100M, despite broader AI funding fears
