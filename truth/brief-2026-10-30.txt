@@ -1,0 +1,18 @@
+# 2026-10-30 실제 Daily Tech Brief 수록 기사 (텔레그램 최종본 자동 보관)
+미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략
+KT 고객센터, AI봇이 월평균 120만건 처리…상담 완결률 높였다
+네이버, 사우디 지도앱 '발라디 플러스' 베타 출시…예약·배달까지 '슈퍼앱' 시동
+엔비디아, 앤스로픽 AI 데이터센터에 수십억달러 보증 추진
+LG CNS, 인도네시아 자카르타 최초 AIDC 구축 완료... "현지 파트너 협력으로 글로벌 AI 인프라 공략"
+중기부, 2030년까지 스마트제조혁신에 5조원 이상 투입…중소제조 피지컬 AI 확산 본격화
+Foundry Robotics Raises $100M in Series A Funding to Expand Autonomous Assembly for Defense, Industry
+오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…"인간 의도 이해가 핵심"
+OpenAI Expands Monitoring to Detect Frontier Model Misalignment
+“AI 투자에 돈 쏟아붓는다”…MS도 9년 만에 회사채 33조원 발행
+캐나다, 국가 AI 주권 확보에 승부수...코히어에 최대 1.5조원 지분 투자
+마이크로소프트, AI·클라우드 성장에 분기 매출 123조원 돌파…애저 48% 급증
+아마존 AWS 39% 성장…영업이익률 최고에도 AI 투자로 현금흐름 악화
+오라클, AI 투자 부담 줄인다…추가 자금조달 200억달러로 제한
+Situational Awareness targets $40bn Fluidstack valuation months after near-collapse
+Salesforce Signs Definitive Agreement to Acquire Rune Technologies
+Serval triples valuation to $3 billion as businesses adopt AI workflow automation

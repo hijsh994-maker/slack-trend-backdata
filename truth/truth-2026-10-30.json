@@ -1,0 +1,107 @@
+{
+ "date": "2026-10-30",
+ "items": [
+  {
+   "category": "AI Model",
+   "title": "미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216821"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "KT 고객센터, AI봇이 월평균 120만건 처리…상담 완결률 높였다",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20261029000034"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "네이버, 사우디 지도앱 '발라디 플러스' 베타 출시…예약·배달까지 '슈퍼앱' 시동",
+   "outlet": "뉴시스",
+   "url": "https://www.newsis.com/view/NISX20261029_0003847212"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "엔비디아, 앤스로픽 AI 데이터센터에 수십억달러 보증 추진",
+   "outlet": "글로벌이코노믹",
+   "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026103009191092599a1f309431_1"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "LG CNS, 인도네시아 자카르타 최초 AIDC 구축 완료... \"현지 파트너 협력으로 글로벌 AI 인프라 공략\"",
+   "outlet": "리버티코리아포스트",
+   "url": "http://www.lkp.news/news/articleView.html?idxno=85620"
+  },
+  {
+   "category": "Physical AI",
+   "title": "중기부, 2030년까지 스마트제조혁신에 5조원 이상 투입…중소제조 피지컬 AI 확산 본격화",
+   "outlet": "로봇신문",
+   "url": "https://www.irobotnews.com/news/articleView.html?idxno=49292"
+  },
+  {
+   "category": "Physical AI",
+   "title": "Foundry Robotics Raises $100M in Series A Funding to Expand Autonomous Assembly for Defense, Industry",
+   "outlet": "AI Insider",
+   "url": "https://theaiinsider.tech/2026/10/29/foundry-robotics-raises-100m-in-series-a-funding-to-expand-autonomous-assembly-for-defense-industry/"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\"",
+   "outlet": "AI타임스",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216819"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "OpenAI Expands Monitoring to Detect Frontier Model Misalignment",
+   "outlet": "Unite.AI",
+   "url": "https://www.unite.ai/openai-expands-monitoring-to-detect-frontier-model-misalignment/"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "“AI 투자에 돈 쏟아붓는다”…MS도 9년 만에 회사채 33조원 발행",
+   "outlet": "헤럴드경제",
+   "url": "https://biz.heraldcorp.com/article/10919912"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "캐나다, 국가 AI 주권 확보에 승부수...코히어에 최대 1.5조원 지분 투자",
+   "outlet": "인공지능신문",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42498"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "마이크로소프트, AI·클라우드 성장에 분기 매출 123조원 돌파…애저 48% 급증",
+   "outlet": "중앙이코노미뉴스",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=559323"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "아마존 AWS 39% 성장…영업이익률 최고에도 AI 투자로 현금흐름 악화",
+   "outlet": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026103006083338567"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "오라클, AI 투자 부담 줄인다…추가 자금조달 200억달러로 제한",
+   "outlet": "산경투데이",
+   "url": "https://www.sankyungtoday.com/news/articleView.html?idxno=63906"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Situational Awareness targets $40bn Fluidstack valuation months after near-collapse",
+   "outlet": "Hedgeweek",
+   "url": "https://hedgeweek.com/news/situational-awareness-targets-40bn-fluidstack-valuation-months-after-near-collapse"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Salesforce Signs Definitive Agreement to Acquire Rune Technologies",
+   "outlet": "Salesforce 공식",
+   "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation",
+   "outlet": "Reuters",
+   "url": "https://sg.news.yahoo.com/serval-triples-valuation-3-billion-120222510.html"
+  }
+ ]
+}
