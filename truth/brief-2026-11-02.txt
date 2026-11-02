@@ -1,0 +1,19 @@
+# 2026-11-02 실제 Daily Tech Brief 수록 기사 (텔레그램 최종본 자동 보관)
+딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축
+RFP도 없이 고객사로 출근…네이버클라우드 FDE, AI 도입 공식 바꾼다
+AIDC 공급 '속도전'…KT클라우드, 자체 구축 넘어 외부 협력 확대
+KB국민은행, 12조6천억원 AI 인프라 금융주선…국내 최초 GPU 파이낸싱·최대 규모
+현대차그룹, 새만금 AI 데이터센터 건립 본격화… 2027년 3월 착공 돌입
+한투·SBI, 10조 日 데이터센터 추진..'한일판 스타게이트' 시동
+아마존, 기술 인프라 자산 담보로 최대 800억달러 대출…AI 투자 박차
+Google's first data center satellite is online and writing poetry
+메타, 중국 푸리에와 휴머노이드 로봇 개발...가정용 시장 진출 추진
+커뮤니티 안전 보고서 및 청소년을 위한 새로운 보호 장치
+북한 해커, AI로 한국 겨냥 피싱 문서 100여개 만들었다…MS 경고
+AI 에이전트가 사이버공격 속도 바꿨다…구글, 계정 탈취 후 최단 15분 만에 내부 침투 확인
+"한 번 설정으로 AI 학습 거부"…오픈AI·구글·MS·앤트로픽 동참
+오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향
+Agility Robotics Expects About $465M From SPAC Deal Ahead of Nov. 5 Nasdaq Debut
+S&P, 메타 신용등급 전망 '부정적' 하향…AI 투자에 현금흐름 우려
+Apple acquires Ascend․io, an agentic AI engineering startup
+2026년 「AX실증밸리조성(R&D)」 사업 신규지원대상 과제 통합 재공고
