@@ -1,0 +1,95 @@
+{
+ "date": "2026-11-05",
+ "items": [
+  {
+   "category": "AI Agent",
+   "title": "[컨콜] 카카오 \"5000만명이 쌓은 카톡 관계망, AI 경쟁사도 쉽게 못 만들어\"",
+   "outlet": "뉴시스",
+   "url": "https://www.newsis.com/view/NISX20261105_0003855788"
+  },
+  {
+   "category": "AI Agent",
+   "title": "네이버, 통합 에이전트 구축 앞당긴다…카카오·배민도 자연어 AI 검색 확대",
+   "outlet": "전자신문",
+   "url": "https://www.etnews.com/20261104000273"
+  },
+  {
+   "category": "Enterprise AI",
+   "title": "KT, 기업 AI 전환 진단부터 솔루션 추천까지…'AX 비즈 포털' 출시",
+   "outlet": "머니투데이",
+   "url": "https://www.mt.co.kr/tech/2026/11/05/2026110508461172089"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "[콘콜]LGU+, 파주 AIDC 4개 동 고객 수요 모두 확보…\"증설 앞당겨 적기 대응\"",
+   "outlet": "아시아경제",
+   "url": "https://www.asiae.co.kr/article/2026110415183634872"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "구글, 말레이시아 데이터센터 건설에 2년간 20조원 투자",
+   "outlet": "연합뉴스",
+   "url": "https://n.news.naver.com/mnews/article/001/0016422552?sid=104"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "Riot Platforms Jumps 13% After Signing $28 Billion AI Data Center Lease With Anthropic",
+   "outlet": "bloomingbit",
+   "url": "https://en.bloomingbit.io/feed/news/123679"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "테라울프($WULF), 구글 신용지원으로 앤트로픽 190억달러 임대 추진",
+   "outlet": "토큰포스트",
+   "url": "https://www.tokenpost.kr/news/breaking/432691"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "美 '우회로' 압박에… 오라클, 텐센트 9.4조 AI 칩 임대 계약 백지화",
+   "outlet": "IT조선",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000245"
+  },
+  {
+   "category": "AI DC & Infra",
+   "title": "AMD, 퓨리오사AI·망고부스트와 손잡고 한국형 AI 인프라 구축…CPU·GPU·NPU·DPU 통합 추진",
+   "outlet": "인공지능신문",
+   "url": "https://www.aitimes.kr/news/articleView.html?idxno=42587"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "美 민주당 압승에 AI 데이터센터 '제동'···삼성·SK 투자 셈법 복잡",
+   "outlet": "서울파이낸스",
+   "url": "https://www.seoulfn.com/news/articleView.html?idxno=641948"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "中 해커, 세계 200여개 기관 AI 공격…美 반도체·방산도 표적",
+   "outlet": "전자신문",
+   "url": "https://n.news.naver.com/mnews/article/030/0003482030?sid=105"
+  },
+  {
+   "category": "AI 보안&정책",
+   "title": "\"내가 고른 AI가 답했나\"…앤트로픽, 모델 확인 기술 공개",
+   "outlet": "지디넷코리아",
+   "url": "https://n.news.naver.com/mnews/article/092/0002443875?sid=105"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "깃허브 정조준?…오픈AI, 개발 도구 스타트업 피에르 컴퓨터 인수",
+   "outlet": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712767"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "\"AI 코딩 주도권 잡아라\"…메타(META.O), AI 코딩 스타트업 '컨덕터' 인수로 오픈AI 추격",
+   "outlet": "메디컬투데이",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623081"
+  },
+  {
+   "category": "AI 투자&시장",
+   "title": "최태원, SK하이닉스 美 AI 투자 법인 ‘HYAICO’ 의장 맡아",
+   "outlet": "조선비즈",
+   "url": "https://n.news.naver.com/mnews/article/366/0001202651?sid=101"
+  }
+ ]
+}
